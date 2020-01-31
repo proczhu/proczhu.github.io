@@ -11,8 +11,8 @@ description: This is where the description of your site will go. You should chan
 github_username: jph00
 
 # Email and twitter are optional:
-email: 
-twitter_username: 
+email: proc.zhu@gmail.com
+twitter_username: proczhu
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
